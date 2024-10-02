@@ -1,0 +1,6 @@
+Wed Oct  2 11:31:16 2024 -> This will be shown in the terminal and written to the file.
+Wed Oct  2 11:31:16 2024 ->       This will be shown in the terminal and written to the file in a new line      
+Wed Oct  2 11:31:16 2024 -> 
+Wed Oct  2 11:31:16 2024 -> 
+Wed Oct  2 11:31:16 2024 -> Another line, saved after this line.
+Wed Oct  2 11:31:16 2024 -> no newlineno newline
